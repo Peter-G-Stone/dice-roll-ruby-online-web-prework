@@ -4,7 +4,7 @@
 
 def roll
  range = [1,2,3,4,5,6]
- print range[0]
+ print range[0] + "\n"
 end
 
 roll
