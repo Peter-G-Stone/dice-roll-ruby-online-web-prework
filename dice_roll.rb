@@ -6,3 +6,5 @@ def roll
  range = [1,2,3,4,5,6]
  print range[0]
 end
+
+roll
