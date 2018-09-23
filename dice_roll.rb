@@ -4,7 +4,8 @@
 
 def roll
  range = [1,2,3,4,5,6]
- print range[rand(0..5)]
+ result = range[rand(0..5)]
+ print result
  print "\n"
 end
 
