@@ -4,5 +4,5 @@
 
 def roll
  range = [1,2,3,4,5,6]
- return range.0
+ return range[0]
 end
