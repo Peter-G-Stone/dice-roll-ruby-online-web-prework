@@ -5,7 +5,9 @@
 def roll
  range = [1,2,3,4,5,6]
  result = range[rand(0..5)]
- puts result
+ print result
+ print "\n"
+ return result
 end
 
 roll
